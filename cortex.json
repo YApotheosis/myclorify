@@ -1,0 +1,25 @@
+{
+  "name": "mycolorify",
+  "version": "0.1.0",
+  "description": "The coolest cortex module.",
+  "main": "index.js",
+  "devDependencies": {
+    "assert": "*"
+  },
+  "dependencies": {
+    "jquery": "^1.9.2"
+  },
+  "repository": "git://github.com/Administrator/myColorify.git",
+  "keywords": [
+    "colo"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "tao.zhang.sh",
+    "email": "tao.zhang.sh@dianping.com"
+  },
+  "bugs": {
+    "url": "http://github.com/Administrator/myColorify/issues"
+  },
+  "homepage": "http://github.com/Administrator/myColorify"
+}
